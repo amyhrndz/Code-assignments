@@ -1,0 +1,39 @@
+.nav {
+    display: inline-block;
+    height: 150px;
+    background-color: #daa520;
+}
+
+.navItem {
+    display: inline-block;
+    width: 150px;
+    height: 60px;
+    margin: 6px;
+    background-color: #e4c16b;
+    text-align: center;
+}
+
+.sideLeft {
+    display: block;
+    float: left;
+}
+
+.sideTop {
+    width: 25%;
+    height: 500px;
+    float: left;
+}
+
+.sideBottom {
+    width: 75%;
+    height: 500px;
+    float: left;
+}
+
+.tinyImage {
+    width: 1%;
+}
+
+.bigImage {
+    width: 50px;
+}
